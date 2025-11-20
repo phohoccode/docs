@@ -1,0 +1,1 @@
+Generate a conventional commit message (feat, fix, refactor, etc.) based on the staged changes. Only output the final commit line, no bullet points or explanations.
