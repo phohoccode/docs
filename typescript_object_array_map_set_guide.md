@@ -1,10 +1,10 @@
-# Hướng dẫn chi tiết các phương thức của Object, Array, Set và Map trong TypeScript ✨📘🧩
+# Hướng dẫn chi tiết các phương thức của Object, Array, Set và Map trong TypeScript
 
-> **Lưu ý**: TypeScript là superset của JavaScript nên các phương thức dưới đây cũng giống JavaScript. Chỉ khác ở chỗ TypeScript hỗ trợ kiểu dữ liệu tĩnh giúp code an toàn và dễ bảo trì hơn. 💡📌📝
+> **Lưu ý**: TypeScript là superset của JavaScript nên các phương thức dưới đây cũng giống JavaScript. Chỉ khác ở chỗ TypeScript hỗ trợ kiểu dữ liệu tĩnh giúp code an toàn và dễ bảo trì hơn. 
 
 ---
 
-## 1. Object 🧱✨🔧
+## 1. Object
 
 Các phương thức sau thường được dùng để tương tác với các thuộc tính của object.
 
@@ -102,7 +102,7 @@ Các phương thức sau thường được dùng để tương tác với các 
 
 ---
 
-## 2. Array 📚✨🌀
+## 2. Array
 
 Các phương thức của Array được chia thành hai nhóm chính: duyệt/biến đổi dữ liệu và thao tác trực tiếp với mảng.
 
@@ -139,7 +139,7 @@ Các phương thức của Array được chia thành hai nhóm chính: duyệt/
 
 ---
 
-## 3. Set 🔒✨🌱
+## 3. Set
 
 **Set** là một cấu trúc dữ liệu dùng để lưu trữ các **giá trị duy nhất** (unique values) của bất kỳ kiểu nào. Nó thích hợp cho danh sách không muốn có sự trùng lặp.
 
@@ -210,7 +210,7 @@ Các phương thức của Array được chia thành hai nhóm chính: duyệt/
 
 ---
 
-## 4. Map 🗺️🔑📦
+## 4. Map
 
 **Map** là một cấu trúc dữ liệu lưu trữ các cặp **key–value**. Khác với Object, Map cho phép dùng **mọi kiểu dữ liệu** (object, hàm, hoặc giá trị nguyên thủy) làm **key**, linh hoạt và an toàn hơn khi làm việc với các key không phải string.
 
